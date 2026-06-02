@@ -1,7 +1,7 @@
-#headerwarp .logoArea img {
+#winw #headerwarp .logoArea img {
   display: none !important;
 }
-#headerwarp .logoArea {
+#winw #headerwarp .logoArea {
   width: 156px;
   height: 25px;
   background-repeat: no-repeat;
