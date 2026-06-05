@@ -10,15 +10,13 @@ body.scroll #headerwarp .logoArea {
 }
 body .section-title {
   font-size: 38px;
-  line-height: 3;
+  line-height: 2;
   color: #000;
-  letter-spacing: -3%;
   font-weight: 700;
 }
 body .sub_title {
   font-size: 26px;
   line-height: 1;
-  letter-spacing: -3%;
   font-weight: 500;
 }
 body #headerwarp .header_box {
@@ -66,7 +64,6 @@ body #green34_107476 .banArea {
 }
 body #green34_107476 .about-text-content .bs {
   font-size: 20px;
-  letter-spacing: -3%;
   line-height: 2;
   color: #55A255;
   font-weight: 500;
@@ -75,7 +72,6 @@ body #green34_107476 .about-text-content .section-title_about {
   font-size: 38px;
   line-height: 1;
   color: #000;
-  letter-spacing: -3%;
   font-weight: 700;
 }
 body #green34_107476 .about-text-content .para_1 .para_2 {
@@ -88,4 +84,8 @@ body #green34_107476 .about-image-content {
 body #green34_107476 .about-image-content:hover img {
   transform: none;
   transition: none;
+}
+body #green34_107501 .banArea {
+  max-width: 1280px;
+  width: 100%;
 }
