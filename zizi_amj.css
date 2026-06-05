@@ -85,6 +85,10 @@ body #green34_107476 .about-image-content:hover img {
   transform: none;
   transition: none;
 }
+body #green34_107501 {
+  max-width: 1280px;
+  width: 100%;
+}
 body #green34_107501 .banArea {
   max-width: 1280px;
   width: 100%;
