@@ -93,3 +93,8 @@ body #green34_107501 .banArea {
   max-width: 1280px;
   width: 100%;
 }
+body #green34_107501 .banArea .block-container {
+  max-width: 1280px;
+  width: 100%;
+  margin-top: 64px;
+}
