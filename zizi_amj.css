@@ -119,17 +119,21 @@ body #green34_107467 .banArea .block_36_layout {
   flex-direction: column;
   max-width: 1280px;
   margin: 0 auto;
-  width: 100%;
 }
 body #green34_107467 .banArea .block_36_layout .block_36_left {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-end;
+  width: 100%;
+  min-height: auto;
 }
 body #green34_107467 .banArea .block_36_layout .block_36_left .block_36_nav {
   display: flex;
   flex-direction: row;
   gap: 10px;
   position: unset;
+}
+body #green34_107467 .banArea .block_36_layout .block_36_viewport {
+  max-width: 1280px;
 }
