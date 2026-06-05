@@ -8,6 +8,11 @@ body.scroll #headerwarp .logoArea {
   background-repeat: no-repeat;
   background-size: cover;
 }
+body .section-title {
+  font-size: 40px;
+  line-height: 1;
+  color: #000;
+}
 body #headerwarp .header_box {
   border-bottom: none !important;
 }
@@ -40,4 +45,20 @@ body #headerwarp #gNavi > ul > li > a {
 }
 body #headerwarp #gNavi > ul > li > a:hover {
   color: #000 !important;
+}
+body #green34_107476 {
+  max-width: 1280px;
+  width: 100%;
+  padding-top: 190px;
+  padding-bottom: 190px;
+}
+body #green34_107476 .banArea {
+  max-width: 1280px;
+  width: 100%;
+}
+body #green34_107476 .about-text-content .bs {
+  font-size: 20px;
+  letter-spacing: -3%;
+  line-height: 1;
+  color: #55A255;
 }
