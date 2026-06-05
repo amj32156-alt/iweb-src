@@ -72,6 +72,7 @@ body #green34_107476 .about-text-content .para_1 .para_2 {
 body #green34_107476 .about-image-content {
   border-radius: none;
 }
-body #green34_107476 .about-image-content:hover {
+body #green34_107476 .about-image-content:hover img {
   transform: none;
+  transition: none;
 }
