@@ -61,10 +61,9 @@ body #green34_107476 .banArea {
 body #green34_107476 .about-text-content .bs {
   font-size: 20px;
   letter-spacing: -3%;
-  line-height: 1;
+  line-height: 3;
   color: #55A255;
   font-weight: 500;
-  margin-bottom: 24px;
 }
 body #green34_107476 .about-text-content .para_1 .para_2 {
   font-size: 20px;
@@ -72,5 +71,7 @@ body #green34_107476 .about-text-content .para_1 .para_2 {
 }
 body #green34_107476 .about-image-content {
   border-radius: none;
-  transition: none;
+}
+body #green34_107476 .about-image-content:hover {
+  transform: none;
 }
