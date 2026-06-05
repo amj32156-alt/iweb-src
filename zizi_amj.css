@@ -131,4 +131,5 @@ body #green34_107467 .banArea .block_36_layout .block_36_left .block_36_nav {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  position: unset;
 }
