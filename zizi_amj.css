@@ -111,8 +111,9 @@ body #green34_107501 .banArea .block-container {
   margin-top: 64px;
 }
 body #green34_107467 .banArea {
-  max-width: 1280px;
+  max-width: 1920px;
   width: 100%;
+  clip-path: inset(0px 0px 0px 320px);
 }
 body #green34_107467 .banArea .block_36_layout {
   display: flex;
