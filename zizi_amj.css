@@ -121,3 +121,14 @@ body #green34_107467 .banArea .block_36_layout {
   margin: 0 auto;
   width: 100%;
 }
+body #green34_107467 .banArea .block_36_layout .block_36_left {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+body #green34_107467 .banArea .block_36_layout .block_36_left .block_36_nav {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
