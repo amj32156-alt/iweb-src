@@ -141,12 +141,12 @@ body #green34_107467 .banArea .block_36_layout .block_36_left .block_36_nav {
 body #green34_107467 .banArea .block_36_layout #block_36_viewport {
   max-width: 1280px;
 }
-body #green34_107467 .banArea .block_36_layout #block_36_viewport .block_36_title {
+body #green34_107467 .banArea .block_36_layout #block_36_viewport .block_36_card is-clone .block_36_title {
   font-size: 20px;
   line-height: 1.2;
   margin-top: 32px;
 }
-body #green34_107467 .banArea .block_36_layout #block_36_viewport .block_36_meta {
+body #green34_107467 .banArea .block_36_layout #block_36_viewport .block_36_card is-clone .block_36_meta {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.5;
