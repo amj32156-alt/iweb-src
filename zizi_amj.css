@@ -1,12 +1,6 @@
 body.scroll #headerwarp .header_box {
   background-color: white !important;
 }
-body.scroll #headerwarp .logoArea {
-  width: 242px;
-  height: 25px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 body .section-title {
   font-size: 36px;
   line-height: 2;
@@ -32,11 +26,12 @@ body #headerwarp .logoArea img {
   display: none !important;
 }
 body #headerwarp .logoArea {
-  width: 242px;
-  height: 25px;
+  width: 250px;
+  height: 90px;
   background-image: url("https://amj32156-alt.github.io/iweb-src/img/logo/logo.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 60% auto;
+  background-position: center;
 }
 body #headerwarp .logo {
   display: flex;
