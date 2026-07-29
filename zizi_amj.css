@@ -184,3 +184,15 @@ body .contBnr .submitBtn {
 body .contBnr .left-tit span {
   display: none !important;
 }
+body .buttons-container {
+  width: 1200px;
+}
+body #green34_107463 div.box_.banArea div div div div:nth-child(1), body #green34_107463 div.box_.banArea div div div div:nth-child(2) {
+  text-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+body #green34_107463 div.floatLeft div:nth-child(1) div div:nth-child(1), body #green34_107463 div.floatLeft div:nth-child(1) div div:nth-child(2) {
+  text-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+body #green34_107463 div.floatLeft div:nth-child(2) div div:nth-child(1), body #green34_107463 div.floatLeft div:nth-child(2) div div:nth-child(2) {
+  text-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
