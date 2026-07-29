@@ -251,4 +251,19 @@ body{
         }
     }
 
+    .cont-block:before{
+        width: 100%;
+        background: #746252 !important;
+    }
+
+    .contBnr{
+        .submitBtn{
+        background: rgba(0, 0, 0, 0.2) !important;
+        }
+
+        .left-tit span{
+            display: none !important;
+        }
+    }
+
 }
