@@ -30,7 +30,7 @@ body #headerwarp .logoArea {
   height: 90px;
   background-image: url("https://amj32156-alt.github.io/iweb-src/img/logo/logo.png");
   background-repeat: no-repeat;
-  background-size: 60% auto;
+  background-size: 100% auto;
   background-position: center;
 }
 body #headerwarp .logo {
