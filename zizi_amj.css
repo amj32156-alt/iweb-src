@@ -13,7 +13,8 @@ body .sub_title {
   font-weight: 500;
 }
 body #headerwarp .header_box {
-  border-bottom: none !important;
+  background-color: white !important;
+  border-bottom: 1px solid #ebebeb !important;
 }
 body #headerwarp #headersub {
   max-width: 1280px;
