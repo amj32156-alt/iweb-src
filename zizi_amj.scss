@@ -253,7 +253,7 @@ body{
 
     .cont-block:before{
         width: 100%;
-        background: #746252 !important;
+        background: #4C4239 !important;
     }
 
     .contBnr{
@@ -264,7 +264,13 @@ body{
         .left-tit span{
             display: none !important;
         }
+
+        .box .inputw {
+        background: rgba(255, 255, 255, 0.15);
+        }
     }
+
+    
 
     .buttons-container{
         width: 1200px;
