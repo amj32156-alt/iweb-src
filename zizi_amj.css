@@ -176,13 +176,16 @@ body #green34_107541 .banArea .block_36_layout .block_36_viewport {
 }
 body .cont-block:before {
   width: 100%;
-  background: #746252 !important;
+  background: #4C4239 !important;
 }
 body .contBnr .submitBtn {
   background: rgba(0, 0, 0, 0.2) !important;
 }
 body .contBnr .left-tit span {
   display: none !important;
+}
+body .contBnr .box .inputw {
+  background: rgba(255, 255, 255, 0.15);
 }
 body .buttons-container {
   width: 1200px;
@@ -195,4 +198,7 @@ body #green34_107463 div.floatLeft div:nth-child(1) div div:nth-child(1), body #
 }
 body #green34_107463 div.floatLeft div:nth-child(2) div div:nth-child(1), body #green34_107463 div.floatLeft div:nth-child(2) div div:nth-child(2) {
   text-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+body #footer1303 #footer {
+  background: #241E18;
 }
